@@ -1,0 +1,19 @@
+{
+  "name": "Gilas VIP Token List",
+  "timestamp": "2024-08-04T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137, // Polygon chain ID
+      "address": "0x4ADd1A5C544F61EBFeB60D1502360367b7c183Da",
+      "name": "Gilas VIP",
+      "symbol": "GLSC",
+      "decimals": 18,
+      "logoURI": "https://gilas.vip/tv/wp-content/uploads/2024/08/glsc250.png" // Replace with actual URL
+    }
+  ]
+}
